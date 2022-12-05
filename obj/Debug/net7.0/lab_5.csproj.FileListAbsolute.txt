@@ -1,0 +1,15 @@
+/Users/iandreiev/Projects/lab_5/bin/Debug/net7.0/lab_5
+/Users/iandreiev/Projects/lab_5/bin/Debug/net7.0/lab_5.deps.json
+/Users/iandreiev/Projects/lab_5/bin/Debug/net7.0/lab_5.runtimeconfig.json
+/Users/iandreiev/Projects/lab_5/bin/Debug/net7.0/lab_5.dll
+/Users/iandreiev/Projects/lab_5/bin/Debug/net7.0/lab_5.pdb
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.csproj.AssemblyReference.cache
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfoInputs.cache
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfo.cs
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.csproj.CoreCompileInputs.cache
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.dll
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/refint/lab_5.dll
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.pdb
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/lab_5.genruntimeconfig.cache
+/Users/iandreiev/Projects/lab_5/obj/Debug/net7.0/ref/lab_5.dll
